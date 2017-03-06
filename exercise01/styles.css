@@ -1,0 +1,12 @@
+.container {
+  width:100%;
+  height: 99vh;
+  display:flex;
+}
+
+.box {
+  display:inline;
+  width:50%;
+  outline: 1px solid black;
+  background-color: white;
+}
